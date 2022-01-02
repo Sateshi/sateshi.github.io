@@ -21,6 +21,8 @@ body {
     font-size: 4em;
     writing-mode: vertical-lr;
     transform: rotate(180deg);
+    margin-left: 5vh;
+    font-weight: 800;
 }
 
 .container {
@@ -60,7 +62,7 @@ nav a:hover {
 h1 {
     font-size: 7em;
     text-align: center;
-    font-weight: bolder;
+    font-weight: 800;
     margin-bottom: 0;
 }
 
